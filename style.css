@@ -1,31 +1,12 @@
 div{
-  background-color: greenyellow;
+  background-color: aqua;
+  width: 500px;
+  padding: 50px;
+  margin: 20px;
   text-align: center;
-  padding: 10px 20px 40px 80px;
-  margin: 10px 20px 60px 80px;
-  width: 550px;
+  border: 2px solid blue;
 }
 
-
-#roundedall{
-  border:8px solid red;
-  border-radius: 40px;
-}
-
-#round-two{
-  border:10px solid blue;
-  border-top-left-radius: 60px;
-  border-bottom-right-radius: 50px;
-
-}
-
-#myborder{
-  border-top: 60px solid forestgreen;
-  border-right: 80px solid black;
-  border-bottom: 60px solid coral;
-  border-left: 80px solid rgb(135, 203, 222);
-  padding: 0;
-  background-color: black;
-  box-shadow: 0 10px 10px red;
-  /* width: 500px; */
+p{
+  border:5px solid red;
 }
